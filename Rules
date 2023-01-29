@@ -1,0 +1,19 @@
+-1 deck
+-player vs dealer
+-print rules
+-Ace equals 1 or 11
+-start with 100 chips
+-when chips = 9 or less, game over
+-need to research payouts for 5 bets: standard win, blackjack, double down, push, and loss
+	-blackjack: 3/2
+	-standard, double: 1/1
+	-push: 0
+	-loss: -1/1
+-need a list to store deck
+-need to ensure no duplicate cards (1 deck only)
+-min bet is 10 chips
+-figure out insurance 
+-player input choices: hit, stand, double down, split, joke choice
+-double down: doubles bet and requires and limits player to 1 additional card
+-split: must have pocket pair, can split if you want then just play each like its own hand **Must have min 20 to split so each hand can hit 10 chip min bet
+-stand: no additional cards taken
